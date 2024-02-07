@@ -20,7 +20,7 @@ we are being taught the basics of: HTML/CSS/Javascript.
 After that one would have to pay for the full course...; because it's no longer FREE, anymore;  
 (if one can't afford to pay...I think, it costs around 7 grand...; then, one can still apply to get funding if eligible).  
 
-Anyway, my aim in creating this GitHub folder repository is to store the lessons we learned during each of 5 days of the course.  
+Anyway, my main aim in creating this GitHub folder repository is to store the lessons we learned during each of 5 days of the course.  
 
 -----
 
