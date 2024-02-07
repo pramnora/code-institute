@@ -11,7 +11,7 @@ Last updated: *Wed 7th Feb 2024 02:31 AM GMT*
 
 ## Introduction
 
-I joined Code Institute's FREE code along 5DCC/5 days coding challenge course.
+I joined Code Institute's FREE code along 5DCC/*5 days coding challenge*.
 
 The course began on Monday/and, today, is now Wednesday; so, by Friday this course will be done;   
 and, I should have obtained a certificate stating: 'beginning front end web developer';  
