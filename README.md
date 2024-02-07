@@ -1,6 +1,6 @@
 # code-institute
 
-NOTE: The code for his repo...can be both viewed/interacted with 'live' here...  
+NOTE: The code for this repo...can be both viewed/interacted with 'live' here...  
 
 - https://prg-code-institute.netlify.app  
 
