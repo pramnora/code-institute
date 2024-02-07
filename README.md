@@ -1,5 +1,9 @@
 # code-institute
 
+NOTE: The code for his repo...can be both viewed/interacted with 'live' here...  
+
+- https://prg-code-institute.netlify.app  
+
 Page created: *Wed 7th Feb 2024 02:31 AM GMT*  
 Last updated: *Wed 7th Feb 2024 02:31 AM GMT*  
 
